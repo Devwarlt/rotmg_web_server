@@ -1,0 +1,7 @@
+gem 'sinatra-activerecord'
+gem 'colorize'
+gem 'rake'
+gem 'mysql2'
+gem 'sinatra'
+gem 'valid_email'
+gem 'rickshaw'
